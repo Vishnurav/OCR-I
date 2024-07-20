@@ -14,6 +14,7 @@ This project provides a Python application to convert images with text to search
 To run this application, ensure you have the following installed:
 - Python 3.x
 - Required Python packages (listed in `requirements.txt`)
+- Replace TESSDATA_PREFIX environment variable to the correct path (ocr.py)
 
 ## Usage
 
