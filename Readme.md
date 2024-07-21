@@ -71,6 +71,24 @@ PDF format is chosen for its compatibility and ease of use. Although EPS files w
 - **Format Selection**: Choosing the right document format based on compatibility and usability needs.
 - **Manual Editing**: Manual adjustments can refine the final document to closely match the original content.
 
+
+## Contributing
+
+If you would like to contribute to this project, please fork the repository and submit a pull request with your proposed changes. Make sure to follow the contribution guidelines provided in the repository.
+
+## Acknowledgments
+
+- **pytesseract**: [GitHub Repository](https://github.com/madmaze/pytesseract)
+- **Pillow**: [GitHub Repository](https://github.com/python-pillow/Pillow)
+
 ## License
 
-This project is licensed under the MIT License.
+Copyright [2024] Vishnu Parappulakkal. Licensed under the Apache License, Version 2.0. See [LICENSE](./LICENSE) for details.
+
+## Contact
+
+For further questions, feel free to contact me at [vishnu@vishnu.framer.media](vishnu.framer.media).
+
+## Changelog
+
+- **v1.0.0** - Initial release with core features.
